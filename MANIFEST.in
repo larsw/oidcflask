@@ -1,0 +1,2 @@
+recursive-include oidcflask/templates *
+recursive-include oidcflask/static *
